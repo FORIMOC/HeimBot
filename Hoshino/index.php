@@ -7,3 +7,4 @@ include_once "php/config.php";
 include_once "controller.php";
 include_once "info.php";
 include_once "record.php";
+include_once "warning.php";
