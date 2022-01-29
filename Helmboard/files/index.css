@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+.last_words{
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    word-break: break-all;
+    max-width: 70%;
+}
+.last_words p{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    font-size: 1.2em;
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+}
+.last_words p span.word_name{
+    color: #74b9ff;
+}
+.last_words p span.output_mark{
+    color: #6c5ce7;
+    font-weight: 700;
+}
+.last_words p span.CQ{
+    background-color: #b2bec3;
+}
+.last_words p span.bad{
+    background-color: darkorange;
+}
+.last_words p span.jz{
+    background-color: red;
+}
+.last_words p span.sex{
+    background-color: deeppink;
+}
+.last_words p span.academic{
+    background-color: deepskyblue;
+}
+.last_words p span.esu{
+    background-color: saddlebrown;
+}
+.last_words p span.b64{
+    background-color: #6c5ce7;
+}
