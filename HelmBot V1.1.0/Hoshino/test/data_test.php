@@ -1,0 +1,93 @@
+<?php
+//if ($data['message']=="test"){
+//    $result=addslashes(json_encode($data));
+//    exit('{"reply": "'.$result.'"}');
+//}
+
+//{
+//    "data":[
+//        {
+//            "group_create_time":0,
+//            "group_id":365953299,
+//            "group_level":0,
+//            "group_memo":"本群须知：\n一、本群宗旨: 服务开发区校区的每一个人（包括曾经在这个校区的每个人）\n二、几项规定：\n1.本群",
+//            "group_name":"软院学长学姐帮帮忙",
+//            "max_member_count":3000,
+//            "member_count":3000
+//        },
+//        {
+//            "group_create_time":0,
+//            "group_id":452100301,
+//            "group_level":0,
+//            "group_memo":"一些参考资料：\n1. \u0001https://github.com/richardodliu/CS-BAOYAN\u0002 \n2. \u0001https://space.bilibili.com/21846767\u0002？from=search\u0026seid=4704116359326390946",
+//            "group_name":"大工软院保研群",
+//            "max_member_count":1000,
+//            "member_count":390
+//        },
+//        {
+//            "group_create_time":0,
+//            "group_id":606682597,
+//            "group_level":0,
+//            "group_memo":"因群满清人，现决定清理群名片格式不对的以及以及含15级以上的前辈，本群只是一个单纯的二手交易群，望前辈",
+//            "group_name":"大工开发区闲置交易（误清请重加）",
+//            "max_member_count":1000,
+//            "member_count":1000
+//        },
+//        {
+//            "group_create_time":0,
+//            "group_id":734835660,
+//            "group_level":0,
+//            "group_memo":"",
+//            "group_name":"懒狗社历史罪人公审部",
+//            "max_member_count":200,
+//            "member_count":7
+//        },
+//        {
+//            "group_create_time":0,
+//            "group_id":781815666,
+//            "group_level":0,
+//            "group_memo":"",
+//            "group_name":"懒狗社姬气壬情报部",
+//            "max_member_count":200,
+//            "member_count":8
+//        },
+//        {
+//            "group_create_time":0,
+//            "group_id":793480506,
+//            "group_level":0,
+//            "group_memo":"时间/事情/价格\n跑腿，帮忙配置环境（小学期可以花钱），去开会",
+//            "group_name":"大工软院~有偿帮助群",
+//            "max_member_count":2000,
+//            "member_count":1064
+//        },
+//        {
+//            "group_create_time":0,
+//            "group_id":822717284,
+//            "group_level":0,
+//            "group_memo":"",
+//            "group_name":"😂Bailan🐶Lab😅",
+//            "max_member_count":200,
+//            "member_count":11
+//        },
+//        {
+//            "group_create_time":0,
+//            "group_id":1129396771,
+//            "group_level":0,
+//            "group_memo":"教材出售指引（2022年春季学期，以最低年级为准）：\n已经弃用的教材：\n工科数学分析（上下册）-大连理工大学",
+//            "group_name":"new大工开发区二手交易群",
+//            "max_member_count":1000,
+//            "member_count":998
+//        },
+//        {
+//            "group_create_time":0,
+//            "group_id":1168489097,
+//            "group_level":0,
+//            "group_memo":"欢迎各位新同学加群～\n还没关注IDUT公众号的小伙伴可以微信关注一下！\n今年我们会陆续推送新一届同学的保研经",
+//            "group_name":"IDUT保研交流群",
+//            "max_member_count":2000,
+//            "member_count":1011
+//        }
+//    ],
+//    "retcode":0,
+//    "status":"ok"
+//}
