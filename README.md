@@ -8,7 +8,7 @@
 
 基于go-cqhttp的gin+vue3舆情多粒度自动化监听机器人
 
-- go-cqhttp部分：使用go-cqhttp开源框架，连接QQ与服务器后端（go-cqhttp的部署可以参考：https://forimoc.com/forimocV2/geek/read.php?FAB=QQbot_setup）
+- go-cqhttp部分：使用go-cqhttp开源框架，连接QQ与服务器后端（go-cqhttp的部署可以参考：https://forimoc.com/forimocV2/geek/read.php?FAB=QQbot_setup ）
 - gin部分：使用Golang中的gin服务端框架，对数据进行处理
 - vue3部分：使用vue3前端框架，对数据进行展示以及方便用户控制机器人的监听模式
 
