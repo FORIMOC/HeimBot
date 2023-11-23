@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "group_id": 101,
+      "message": "init",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user0"
+      },
+      "user_id": 10000
+    },
+    {
+      "group_id": 101,
+      "message": "[CQ:image,file=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user0"
+      },
+      "user_id": 10000
+    },
+    {
+      "group_id": 101,
+      "message": "有无群友说说",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user0"
+      },
+      "user_id": 10000
+    },
+    {
+      "group_id": 101,
+      "message": "😰就那么想进体质是吧",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user1"
+      },
+      "user_id": 10001
+    },
+    {
+      "group_id": 101,
+      "message": "我这体制内3000工资",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user2"
+      },
+      "user_id": 10002
+    },
+    {
+      "group_id": 101,
+      "message": "来不",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user2"
+      },
+      "user_id": 10002
+    },
+    {
+      "group_id": 101,
+      "message": "感觉我身边的体质都是咖喱给没出息的小孩安排的",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user1"
+      },
+      "user_id": 10001
+    },
+    {
+      "group_id": 101,
+      "message": "😄",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user2"
+      },
+      "user_id": 10002
+    },
+    {
+      "group_id": 101,
+      "message": "[CQ:image,file=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user1"
+      },
+      "user_id": 10001
+    },
+    {
+      "group_id": 101,
+      "message": "指事业单位",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user1"
+      },
+      "user_id": 10001
+    },
+    {
+      "group_id": 101,
+      "message": "我记得我以前还发过",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user2"
+      },
+      "user_id": 10002
+    },
+    {
+      "group_id": 101,
+      "message": "体质这个概念太广了",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user1"
+      },
+      "user_id": 10001
+    },
+    {
+      "group_id": 101,
+      "message": "就跟[一本]一样",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user1"
+      },
+      "user_id": 10001
+    },
+    {
+      "group_id": 101,
+      "message": "我们这的版本答案是去合肥南京",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user1"
+      },
+      "user_id": 10001
+    },
+    {
+      "group_id": 101,
+      "message": "其次才是考公",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user1"
+      },
+      "user_id": 10001
+    },
+    {
+      "group_id": 101,
+      "message": "不是去\uD83D\uDDFD？",
+      "post_type": "message",
+      "sender": {
+        "nickname": "匿名用户"
+      },
+      "user_id": 80000
+    },
+    {
+      "group_id": 101,
+      "message": "不是很懂你们罕见",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user1"
+      },
+      "user_id": 10001
+    },
+    {
+      "group_id": 101,
+      "message": "去\uD83D\uDDFD枪战是吧",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user1"
+      },
+      "user_id": 10001
+    },
+    {
+      "group_id": 101,
+      "message": "[CQ:image,file=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user1"
+      },
+      "user_id": 10001
+    }
+  ]
+}

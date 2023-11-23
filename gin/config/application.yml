@@ -1,0 +1,82 @@
+version: 3.1.0_build_20230809
+server:
+  # gin 后端的运行端口
+  port: 8740
+owner:
+  # 初始化创建的全权管理员的账号密码（修改后需要重启后端程序）
+  ID: 1234
+  password: 1234
+bot:
+  # 机器人 ID
+  selfID: 1234
+  # 机器人的 go-cqhttp 监听的端口
+  port: 5701
+  # 报警群聊 ID
+  baseGroupID: 1234
+  # 授权群聊 ID（在这些群内可与机器人交互并授权高等级的管理员账号）
+  authGroupID: 1234
+  # 白名单群聊 ID（不会对这些群内的消息进行处理）
+  whitelistGroupID:
+  # 机器人是否可交互
+  isInteractable: true
+  # 报警是否解析 CQ 码
+  isWarningEscape: true
+  # 默认的群聊监听模式
+  defaultListenMode: 2
+datasource:
+  host: 127.0.0.1
+  port: 3306
+  database: Heimbot
+  username: root
+  password: 1234
+  charset: utf8mb4
+jwt:
+  # token 过期时间（天）
+  expirationDay: 7
+data_limit:
+  # 群内用户发言频率展示长度
+  groupUserLimit: 5
+  # 群内社交网络点个数展示长度
+  groupGraphPointLimit: 10
+  # 群内社交网络计算中最大上下消息影响长度
+  groupGraphMaxAffectMessageLimit: 10
+  # 群内发言时间序列保存&展示长度
+  groupTimeLimit: 5
+  # 群内单用户发言时间序列保存长度
+  groupUserTimeLimit: 30
+  # 群内关键词展示长度
+  groupKeywordLimit: 30
+  # 群内缓存消息保存&展示长度
+  groupCacheMessageLimit: 50
+  # 群内缓存消息临界时删除长度
+  groupCacheMessageFlushLimit: 10
+client:
+  - host: 127.0.0.1
+    port: 8741
+api:
+  # 涉诈文本检测
+  fraudDetect:
+    host: 127.0.0.1
+    port: 8742
+    route: /fraud_detect
+    # 每次提交的 batch 数据长度
+    dataFlushLimit: 1
+    # 涉诈消息展示长度
+    fraudMessageLogLimit: 200
+    # 涉诈群聊展示长度
+    fraudGroupLogLimit: 200
+  # 时间序列检测作弊账号周期
+  timeSeriesDetect:
+    host: 127.0.0.1
+    port: 8742
+    route: /time_series_detect
+    # 定期进行检测的时间序列长度（天）
+    dataFlushLimit: 5
+    # 时间序列检测结果展示长度
+    resultLimit: 5
+    # 时间序列检测样本占发过言用户的比例
+    sampleRatio: 0.1
+    # 时间序列检测样本最低数
+    sampleMinimum: 10
+    # 时间序列检测样本中关键词主序用户占总数的比例
+    sampleFraudRatio: 0.2

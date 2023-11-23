@@ -1,0 +1,616 @@
+{
+  "data": [
+    {
+      "group_id": 104,
+      "message": "init",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user11"
+      },
+      "user_id": 10011
+    },
+    {
+      "group_id": 104,
+      "message": "有没有学长学姐知道新生可以提前一天进寝室吗",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user11"
+      },
+      "user_id": 10011
+    },
+    {
+      "group_id": 104,
+      "message": "咋判断是不是研究生[CQ:face,id=...][CQ:face,id=...][CQ:face,id=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "不可以",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "这是咱们学校勤工俭学服务中心的QQ群，平时要是没有课了的话，有想勤工俭学的可以进群了解一下群号：839784935",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user9"
+      },
+      "user_id": 10009
+    },
+    {
+      "group_id": 104,
+      "message": "同学们好！这是我们学校勤工俭学协会服务中心的QQ群，想做兼职的同学可以加入群聊了解一下，明天将发布新的兼职信息！群号：519843267。",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user10"
+      },
+      "user_id": 10010
+    },
+    {
+      "group_id": 104,
+      "message": "没玉兰卡",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "你刷不进去",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "为什么要判断",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "[CQ:face,id=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "也就是说要拿到了卡才可以进去",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user11"
+      },
+      "user_id": 10011
+    },
+    {
+      "group_id": 104,
+      "message": "等分班出来了联系班导生",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "也不一定",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user14"
+      },
+      "user_id": 10014
+    },
+    {
+      "group_id": 104,
+      "message": "你可以找宿管阿姨",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user14"
+      },
+      "user_id": 10014
+    },
+    {
+      "group_id": 104,
+      "message": "那学校周围住宿方便吗",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user11"
+      },
+      "user_id": 10011
+    },
+    {
+      "group_id": 104,
+      "message": "让他帮你刷开",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user14"
+      },
+      "user_id": 10014
+    },
+    {
+      "group_id": 104,
+      "message": "70r一晚（",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user14"
+      },
+      "user_id": 10014
+    },
+    {
+      "group_id": 104,
+      "message": "今年没疫情了 什么都不一定",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "周围可以去万达住",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user15"
+      },
+      "user_id": 10015
+    },
+    {
+      "group_id": 104,
+      "message": "舒服一点",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user15"
+      },
+      "user_id": 10015
+    },
+    {
+      "group_id": 104,
+      "message": "啊？哪里嘞",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "还能逛街",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user15"
+      },
+      "user_id": 10015
+    },
+    {
+      "group_id": 104,
+      "message": "万达好像离了几公里哈[CQ:face,id=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user11"
+      },
+      "user_id": 10011
+    },
+    {
+      "group_id": 104,
+      "message": "我咋去年没这个价",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "来我宿舍[CQ:face,id=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user16"
+      },
+      "user_id": 10016
+    },
+    {
+      "group_id": 104,
+      "message": "坐公交就行",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "万达打车过来十几块",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user15"
+      },
+      "user_id": 10015
+    },
+    {
+      "group_id": 104,
+      "message": "打胶吗",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "开学季正常会贵一点",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user16"
+      },
+      "user_id": 10016
+    },
+    {
+      "group_id": 104,
+      "message": "那个防学长的图呢",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "我空间里",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "（bushi）",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "[CQ:image,file=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "[CQ:image,file=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "[CQ:image,file=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "是这样的",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "男孩子也要保护好自己啊",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "[CQ:image,file=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user16"
+      },
+      "user_id": 10016
+    },
+    {
+      "group_id": 104,
+      "message": "噗，男孩子还怕被噶了？",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "新生开学还要军训吗",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user11"
+      },
+      "user_id": 10011
+    },
+    {
+      "group_id": 104,
+      "message": "她也是曾经这么跟我说的",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user17"
+      },
+      "user_id": 10017
+    },
+    {
+      "group_id": 104,
+      "message": "话说你们能住进新宿舍吗，羡慕",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user15"
+      },
+      "user_id": 10015
+    },
+    {
+      "group_id": 104,
+      "message": "不然呢？",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user16"
+      },
+      "user_id": 10016
+    },
+    {
+      "group_id": 104,
+      "message": "？？？？？？",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "这个问题问得好",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "难不成让20，21再军训一次？",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user16"
+      },
+      "user_id": 10016
+    },
+    {
+      "group_id": 104,
+      "message": "高三那个还是大学那个",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "就像问人离开了一氧化二氢能不能活",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "今年大一军训，明年大二军训是吧",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user16"
+      },
+      "user_id": 10016
+    },
+    {
+      "group_id": 104,
+      "message": "本科生和研究生都要军训吗",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user11"
+      },
+      "user_id": 10011
+    },
+    {
+      "group_id": 104,
+      "message": "军训 今年大1训 明年大2训 后年大3",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "研究生不用训",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user15"
+      },
+      "user_id": 10015
+    },
+    {
+      "group_id": 104,
+      "message": "研究生不逊",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "[CQ:image,file=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user11"
+      },
+      "user_id": 10011
+    },
+    {
+      "group_id": 104,
+      "message": "饶了23届吧",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "都老胳膊老腿的",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user15"
+      },
+      "user_id": 10015
+    },
+    {
+      "group_id": 104,
+      "message": "训坏了不好",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user15"
+      },
+      "user_id": 10015
+    },
+    {
+      "group_id": 104,
+      "message": "本科生逊，一语双关是吧",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "训",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "咱们学校是不是进宿舍要刷脸",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user11"
+      },
+      "user_id": 10011
+    },
+    {
+      "group_id": 104,
+      "message": "不是",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "是",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "玉兰卡",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "？",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "研究生宿舍？",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    },
+    {
+      "group_id": 104,
+      "message": "宿舍楼？",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user13"
+      },
+      "user_id": 10013
+    },
+    {
+      "group_id": 104,
+      "message": "[CQ:image,file=...]",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user11"
+      },
+      "user_id": 10011
+    },
+    {
+      "group_id": 104,
+      "message": "那也是玉兰卡",
+      "post_type": "message",
+      "sender": {
+        "nickname": "user12"
+      },
+      "user_id": 10012
+    }
+  ]
+}
