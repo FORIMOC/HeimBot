@@ -6,7 +6,7 @@
 
 HeimBot: A Social Platform Anti-fraud Analysis System
 
-[forimoc.me | Heimbot项目说明页面&详细文档](forimoc.me/works/heimbot)
+[forimoc.me | Heimbot项目说明页面&详细文档](http://forimoc.me/works/heimbot)
 
 ## 成果
 
@@ -14,7 +14,7 @@ Heimbot3.1.0_build_20230809
 
 单刷 CISCN 2023 作品赛三等奖（浙大紫金港，2023.8.22）
 
-[CISCN 2023 作品赛决赛结果通知](http://117.78.33.202/upload/file/20230822/1692693521992832.pdf)
+[CISCN 2023 作品赛决赛结果通知](http://117.78.33.202/announcement/view/321)
 
 [CISCN 2023 决赛作品获奖名单](http://117.78.33.202/upload/file/20230822/1692693521992832.pdf)
 
