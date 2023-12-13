@@ -28,3 +28,9 @@ Heimbot3.1.0_build_20230809
 ## 注意
 
 bert-base-chinese 的 bin 文件和 model 中的 bert pt 文件由于过大未提供
+
+## 鸣谢
+
+感谢 @dickton 在报告修改方面的建议，以及对于时间序列分析算法的建议
+
+感谢 liuliang 在项目未来发展方面的建议
